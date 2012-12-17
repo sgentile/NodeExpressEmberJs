@@ -1,5 +1,6 @@
 node_modules
 lib-cov
+*.DS_Store
 *.seed
 *.log
 *.csv
